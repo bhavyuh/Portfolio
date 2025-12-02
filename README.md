@@ -1,0 +1,30 @@
+# Portfolio
+A clean and responsive personal portfolio website showcasing my projects, skills, and journey as a beginner full-stack web developer.
+Built with HTML, CSS & Bootstrap.
+
+## 📚 Table of Contents
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Preview](#-preview)
+- [Credits](#-credits)
+
+## ✨ Features
+
+- Responsive and mobile-friendly design - Sections for About, Skills, Projects, and Contact
+- Clean and minimal UI
+- Beginner-friendly code structure
+- Easy to update and expand
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- Bootstrap 5
+
+## 🖼 Preview
+
+You can view the live version here:
+👉 https://bhavyuh.github.io/iLanding/
+
+## 🙏 Credits
+
+- Reference template: [Sidharsan's Portfolio](https://danielace1.github.io/Portfolio)
