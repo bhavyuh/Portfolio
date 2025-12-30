@@ -23,8 +23,8 @@ Built with HTML, CSS & Bootstrap.
 ## 🖼 Preview
 
 You can view the live version here:
-👉 https://bhavyuh.github.io/iLanding/
+👉 https://bhavyuh.github.io/Portfolio/
 
 ## 🙏 Credits
 
-- Reference template: [Sidharsan's Portfolio](https://danielace1.github.io/Portfolio)
+- Reference template: [Sudharsan's Portfolio](https://danielace1.github.io/Portfolio)
