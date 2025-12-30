@@ -1,33 +1,26 @@
 ![Portfolio Preview](imgs/preview.png)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-blue?style=for-the-badge">
+  <img src="https://img.shields.io/github/contributors/bhavyuh/Portfolio?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/bhavyuh/Portfolio?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/bhavyuh/Portfolio?style=for-the-badge">
+</p>
+<p align="center">
 A clean and responsive personal portfolio website showcasing my projects, skills, and learning journey as a beginner full-stack web developer.  
 Built using **HTML, CSS, and Bootstrap**.
+</p>
+<p align="center">
+  <a href="https://bhavyuh.github.io/Portfolio/">Preview</a>
+</p>
 
 ## 📚 Table of Contents
-- [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Preview](#-preview)
 - [Credits](#-credits)
-
-## ✨ Features
-
-- Responsive and mobile-friendly design - Sections for About, Skills, Projects, and Contact
-- Clean and minimal UI
-- Beginner-friendly code structure
-- Easy to update and expand
 
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
 - Bootstrap 5
-
-## 🖼 Preview
-
-You can view the live version here:
-👉 https://bhavyuh.github.io/Portfolio/
 
 ## 🙏 Credits
 
