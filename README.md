@@ -1,4 +1,8 @@
 ![Portfolio Preview](imgs/preview.png)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange)
 A clean and responsive personal portfolio website showcasing my projects, skills, and learning journey as a beginner full-stack web developer.  
 Built using **HTML, CSS, and Bootstrap**.
 
