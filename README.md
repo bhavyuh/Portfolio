@@ -1,7 +1,6 @@
 ![Portfolio Preview](imgs/preview.png)
-# Portfolio
-A clean and responsive personal portfolio website showcasing my projects, skills, and journey as a beginner full-stack web developer.
-Built with HTML, CSS & Bootstrap.
+A clean and responsive personal portfolio website showcasing my projects, skills, and learning journey as a beginner full-stack web developer.  
+Built using **HTML, CSS, and Bootstrap**.
 
 ## 📚 Table of Contents
 - [Features](#-features)
