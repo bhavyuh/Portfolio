@@ -3,9 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
-}
-
-body {
   cursor: crosshair;
 }
 
@@ -206,4 +203,5 @@ footer p {
 .know-more a {
   font-family: Arial;
 }
+
 
